@@ -1,5 +1,5 @@
 ### Hi I am Karsten Pedersen
-I am an danish student who has an interest in software and programming.
+I am a danish student who has an interest in software and programming.
 
 ### Current projects
 - Formula application in Java
