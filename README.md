@@ -3,9 +3,9 @@
 
 💙🟦🔵🔷🔹
 
-🔷 Get in contact
-🔹 Twitter: @karstenfinderup
-🔹 Email: contactkarstenpedersen@gmail.com
+<p align="left">🔷 Get in contact</p>
+<p align="left">🔹 Twitter: @karstenfinderup</p>
+<p align="left">🔹 Email: contactkarstenpedersen@gmail.com</p>
 
 <h3 align="left">Get in contact:</h3>
 <p align="left">
