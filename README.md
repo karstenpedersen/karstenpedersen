@@ -1,5 +1,5 @@
 <h2 align="left">Hi I am Karsten Pedersen</h2>
-🔹🔹🔹
+@karstenfinderup contactkarstenpedersen@gmail.com
 
 <p align="left">Get in contact</p>
 <li>
@@ -13,4 +13,4 @@
 <p align="left">Email: contactkarstenpedersen@gmail.com</p>
 
 Languages and skills
-💙🟦🔵🔷
+💙🟦🔵🔷🔹
