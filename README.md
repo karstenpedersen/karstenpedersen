@@ -2,8 +2,8 @@
 <h3 align="center">A student from Denmark with interest in software and programming</h3>
 
 <h3 align="left">Get in contact:</h3>
-<p align="left">@karstenfinderup
-<a href="https://twitter.com/karstenfinderup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karstenfinderup" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/karstenfinderup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karstenfinderup" height="30" width="40" /></a>@karstenfinderup
 </p>
 <p align="left">contactkarstenpedersen@gmail.com</p>
 
