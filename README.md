@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karsten Finderup Pedersen</h1>
+<h1 align="left">Hi 👋, I'm Karsten Finderup Pedersen</h1>
 <h3 align="center">A student from Denmark</h3>
 
 <h3 align="left">Connect with me:</h3>
