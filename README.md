@@ -1,7 +1,5 @@
-<h1 align="left">Hi I am Karsten Pedersen</h1>
-<h3 align="left">A student from Denmark with interest in software and programming</h3>
-
-💙🟦🔵🔷🔹
+<h2 align="left">Hi I am Karsten Pedersen</h2>
+🔹🔹🔹
 
 <p align="left">Get in contact</p>
 <li>
@@ -15,3 +13,4 @@
 <p align="left">Email: contactkarstenpedersen@gmail.com</p>
 
 Languages and skills
+💙🟦🔵🔷
