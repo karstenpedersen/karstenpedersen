@@ -5,7 +5,7 @@ I am a danish student who has an interest in software and programming.
 Formula application in Java
 
 ### Languages and tools
-Java, Javascript, Python, CSS, HTML, Firebase, Gamemaker Studio 2 and Godot
+Java, Javascript, Python, CSS, HTML, Firebase, Visual Studio Code, Gamemaker Studio 2 and Godot
 
 ### Get in contact
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">][twitter]
