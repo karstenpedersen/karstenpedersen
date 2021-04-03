@@ -5,8 +5,8 @@
 
 <p align="left">Get in contact</p>
 <li>
-<p align="left">🔹 Twitter: @karstenfinderup/n</p>
-<p align="left">🔹 Email: contactkarstenpedersen@gmail.com</p>
+🔹 Twitter: @karstenfinderup
+🔹 Email: contactkarstenpedersen@gmail.com
 </li>
 <h3 align="left">Get in contact:</h3>
 <p align="left">
