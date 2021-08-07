@@ -2,10 +2,10 @@
 I am a danish student who has an interest in software and programming.
 
 ### Current projects
-Formula application in Java
+A C# Forms application that will ease up my boring tasks in school, like creating project templates and more.
 
 ### Languages and tools
-Java, Javascript, Python, CSS, HTML, Firebase, Visual Studio Code, Gamemaker Studio 2 and Godot
+Java, Javascript, C#, Python, CSS, HTML, Gamemaker Studio 1.4, Gamemaker Studio 2 and Godot.
 
 ### Get in contact
 [Twitter][twitter]
