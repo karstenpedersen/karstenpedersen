@@ -1,9 +1,6 @@
 ### Hi I am Karsten Pedersen
 I am a danish student who has an interest in software and programming.
 
-### Current projects
-React website.
-
 ### Languages and tools
 Java, Javascript, C#, CSS, HTML, React, Next.js, Gamemaker Studio 1.4, Gamemaker Studio 2.
 
