@@ -1,10 +1,7 @@
 ### Hi I am Karsten Pedersen
-I am a danish student who has an interest in software and programming.
 
 ### Languages and tools
-Java, Javascript, C#, CSS, HTML, React, Next.js, Gamemaker Studio 1.4, Gamemaker Studio 2.
-
-I also have basic knowledge of Python, Godot and C++ for Arduino projects.
+Messing around with web development.
 
 ### Get in contact
 [Twitter][twitter]
