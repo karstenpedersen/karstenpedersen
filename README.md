@@ -1,7 +1,25 @@
 # Hi I am Karsten Pedersen
 
-# Languages and tools
 Messing around with web development.
+
+# Languages and tools
+- JavaScript
+- TypeScript
+- HTML & CSS
+- TailwindCSS
+- Git
+
+## Web Frameworks
+- Svelte
+- SvelteKit
+- React
+- Next.js
+
+**Favorite Framework:** Svelte
+
+## Design tools
+- Figma
+- Affinity Design
 
 # Socials and contacts
 - [Twitter](https://twitter.com/KarstenFinderup)
