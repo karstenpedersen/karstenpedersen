@@ -4,11 +4,17 @@ Messing around with web development.
 
 # Languages and tools
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=git&&logoColor=white)
+
 - Svelte
 - SvelteKit
 - React
