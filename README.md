@@ -35,4 +35,4 @@ Messing around with web development.
 - [Twitter](https://twitter.com/KarstenFinderup)
 - [YouTube](https://www.youtube.com/channel/UCPUSU_U5RsqrcPoNHDKsWEg)
 
-or mail me [Mail](https://mail.google.com/mail/?view=cm&fs=1&to=karstenfp.all@gmail.com)
+or [mail](https://mail.google.com/mail/?view=cm&fs=1&to=karstenfp.all@gmail.com) me.
