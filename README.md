@@ -3,6 +3,12 @@
 Messing around with web development.
 
 # Languages and tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&&logoColor=white)
 - Svelte
 - SvelteKit
 - React
