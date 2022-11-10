@@ -8,16 +8,10 @@ Messing around with web development.
 - HTML & CSS
 - TailwindCSS
 - Git
-
-## Web Frameworks
 - Svelte
 - SvelteKit
 - React
 - Next.js
-
-**Favorite Framework:** Svelte
-
-## Design tools
 - Figma
 - Affinity Design
 
