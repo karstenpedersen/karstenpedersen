@@ -3,17 +3,17 @@
 Messing around with web development.
 
 # Languages and tools
-- JavaScript
-- TypeScript
-- HTML & CSS
-- TailwindCSS
-- Git
 - Svelte
 - SvelteKit
 - React
 - Next.js
+- JavaScript
+- TypeScript
+- HTML & CSS
+- TailwindCSS
 - Figma
 - Affinity Design
+- Git
 
 # Socials and contacts
 - [Twitter](https://twitter.com/KarstenFinderup)
