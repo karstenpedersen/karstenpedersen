@@ -1,14 +1,10 @@
-### Hi I am Karsten Pedersen
+# Hi I am Karsten Pedersen
 
-### Languages and tools
+# Languages and tools
 Messing around with web development.
 
-### Get in contact
-[Twitter][twitter]
-[Youtube][youtube]
-[Gmail][gmail]
+# Socials and contacts
+- [Twitter](https://twitter.com/KarstenFinderup)
+- [YouTube](https://www.youtube.com/channel/UCPUSU_U5RsqrcPoNHDKsWEg)
 
-
-[twitter]: https://twitter.com/KarstenFinderup
-[youtube]: https://www.youtube.com/channel/UCPUSU_U5RsqrcPoNHDKsWEg
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=karstenfp.all@gmail.com
+or mail me [Mail](https://mail.google.com/mail/?view=cm&fs=1&to=karstenfp.all@gmail.com)
