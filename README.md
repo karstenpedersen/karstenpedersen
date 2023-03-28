@@ -15,6 +15,7 @@ Messing around with web development.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-101010?style=for-the-badge&logo=tailwindcss&&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&&logoColor=white)
+![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=java&&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20code-101010?style=for-the-badge&logo=visualstudiocode&&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20studio-101010?style=for-the-badge&logo=visualstudio&&logoColor=white)
