@@ -3,11 +3,6 @@
 Messing around with web development.
 
 # Languages and Tools
-
-![Svelte](https://img.shields.io/badge/Svelte-101010?style=for-the-badge&logo=svelte&&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-101010?style=for-the-badge&logo=svelte&&logoColor=white)
-![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=next.js&&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&&logoColor=white)
@@ -16,6 +11,15 @@ Messing around with web development.
 ![Vercel](https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=java&&logoColor=white)
+
+## JavaScript Frameworks
+
+![Svelte](https://img.shields.io/badge/Svelte-101010?style=for-the-badge&logo=svelte&&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-101010?style=for-the-badge&logo=svelte&&logoColor=white)
+![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=next.js&&logoColor=white)
+
+## Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20code-101010?style=for-the-badge&logo=visualstudiocode&&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20studio-101010?style=for-the-badge&logo=visualstudio&&logoColor=white)
