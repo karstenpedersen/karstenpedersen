@@ -11,6 +11,7 @@ Messing around with web development and school projects.
 ![Vercel](https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&&logoColor=white)
 
 ## JavaScript Frameworks
 
