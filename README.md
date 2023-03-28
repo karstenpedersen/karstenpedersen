@@ -1,6 +1,6 @@
 # Hi I am Karsten Pedersen
 
-Messing around with web development.
+Messing around with web development and school projects.
 
 # Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&&logoColor=white)
