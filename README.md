@@ -13,24 +13,16 @@ Messing around with web development and school projects.
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&&logoColor=white)
 
-## JavaScript Frameworks
-
 ![Svelte](https://img.shields.io/badge/Svelte-101010?style=for-the-badge&logo=svelte&&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-101010?style=for-the-badge&logo=svelte&&logoColor=white)
 ![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=next.js&&logoColor=white)
 
-## Editors
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20code-101010?style=for-the-badge&logo=visualstudiocode&&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20studio-101010?style=for-the-badge&logo=visualstudio&&logoColor=white)
 
-## Version Control
-
 ![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&&logoColor=white)
-
-## Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-101010?style=for-the-badge&logo=figma&&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-101010?style=for-the-badge&logo=affinitydesigner&&logoColor=white)
