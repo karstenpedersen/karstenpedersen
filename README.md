@@ -10,7 +10,7 @@ Messing around with web development and school projects.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-101010?style=for-the-badge&logo=tailwindcss&&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&&logoColor=white)
-![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=java&&logoColor=white)
+![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&&logoColor=white)
 
 ## JavaScript Frameworks
 
