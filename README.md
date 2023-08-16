@@ -1,4 +1,4 @@
-# Hi I am Karsten Pedersen
+# Hi, I'm Karsten Pedersen
 
 Messing around with web development and school projects.
 
