@@ -1,6 +1,6 @@
 # Karsten Pedersen
 
-I'm passionate about DevOps, Distributed Systems, Software Engineering, and Web Development. Mainly working with Go, TypeScript, Postgres, and Nix.
+I'm passionate about DevOps, Distributed Systems, Software Engineering, and Web Development. Mainly working with Go, TypeScript, Postgres, Svelte, and Nix.
 
 ## Continuous Learning
 
